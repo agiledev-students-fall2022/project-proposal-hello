@@ -17,6 +17,7 @@ I'm considering several features:
 - BTC and Dogecoin price charts
 - News related to Tesla and Elon Musk
 - Some analyst reports about Tsla (like TroyTeslike on Twitter)
+
 And of course I'm open to adding any additional features. 
 
 # 5. Scope:
