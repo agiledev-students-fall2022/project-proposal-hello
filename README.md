@@ -23,6 +23,6 @@ And of course I'm open to adding any additional features.
 
 # 5. Scope:
 Although I do not have much experience in software development, I believe the proposal will be appropriate to be done by 4-6 beginner software engineers. 
-Especially, the app is a combination of several different services. The team can decide to add and drop some features according to the performance of the entire semester. 
+Especially, the app is a combination of several small features. The team can decide to add and drop some features according to the process during the project. 
 
 
